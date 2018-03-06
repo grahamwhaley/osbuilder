@@ -4,7 +4,7 @@
 * [Introduction](#introduction)
 * [Building a guest image](#building-a-guest-image)
     * [Build a rootfs](#build-a-rootfs)
-      * [(optional) Customise the rootfs](#(optional)-customise-the-rootfs)
+      * [(optional) Customise the rootfs](#optional-customise-the-rootfs)
       * [Create a rootfs image](#create-a-rootfs-image)
       * [Default packages](#default-packages)
         * [Clear Linux based packages security limitations](#clear-linux-based-packages-security-limitations)
